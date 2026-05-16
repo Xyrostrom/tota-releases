@@ -1,0 +1,23 @@
+changelog:
+  exclude:
+    labels: [ignore-for-release, dependencies]
+    authors: [dependabot, github-actions]
+  categories:
+    - title: âš ï¸ Breaking
+      labels: [breaking]
+    - title: âœ¨ Features
+      labels: [feature, enhancement]
+    - title: ðŸ› Fixes
+      labels: [bug, fix]
+    - title: ðŸ” Security
+      labels: [security]
+    - title: ðŸš€ Performance
+      labels: [performance]
+    - title: ðŸ“š Docs
+      labels: [docs]
+    - title: ðŸ§° Maintenance
+      labels: [chore, refactor, ci, test]
+    - title: ðŸ“¦ Deps
+      labels: [dependencies]
+    - title: Other
+      labels: ['*']
