@@ -1,0 +1,17 @@
+name: âœ¨ Feature Request
+description: Improvement or new capability.
+title: '[Feature]: '
+labels: ['enhancement', 'needs-triage']
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+    validations:
+      required: true
+  - type: textarea
+    id: proposed
+    attributes:
+      label: Proposed solution
+    validations:
+      required: true
