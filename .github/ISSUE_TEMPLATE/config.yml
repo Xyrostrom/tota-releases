@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/Xyrostrom/tota/security/policy
+    about: Report privately. DO NOT open a public issue.
+  - name: Billing / account issue
+    url: mailto:support@tota.co.in
+    about: Email for account-specific questions.
